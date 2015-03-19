@@ -1,0 +1,11 @@
+".container": {
+	backgroundColor:"white"
+}
+
+
+"#productosEleg": {
+	color: "#000",
+	backgroundColor:'green',
+	opacity:0.9,
+
+}	

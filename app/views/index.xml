@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		<View>
+			<TableView id="productosEleg"></TableView>
+		</View>
+	</Window>
+</Alloy>
